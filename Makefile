@@ -8,6 +8,3 @@ compile:
 
 eunit:
 	@./rebar eunit
-
-dialyzer:
-	@dialyzer --src src
